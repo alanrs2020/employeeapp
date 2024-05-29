@@ -1,0 +1,28 @@
+[{
+    "employeeId":1,
+    "name":"Jim",
+    "designation":"Manager",
+    "location":"New York",
+    "status":"Active"
+},
+{
+    "employeeId":2,
+    "name":"Corbett",
+    "designation":"HR",
+    "location":"Canada",
+    "status":"Temporarily suspended"
+},
+{
+    "employeeId":3,
+    "name":"Harry",
+    "designation":"Designer",
+    "location":"Paris",
+    "status":"Inactive"
+},
+{
+    "employeeId":4,
+    "name":"Potter",
+    "designation":"Developer",
+    "location":"Riyadh",
+    "status":"Terminated"
+}]
